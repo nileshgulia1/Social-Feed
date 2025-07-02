@@ -1,5 +1,7 @@
 # React Social Feed App
 
+Live demo: https://snazzy-selkie-f2376a.netlify.app/
+
 A modern social media feed application built with React, TypeScript, Vite, and Tailwind CSS.
 
 ## Features
